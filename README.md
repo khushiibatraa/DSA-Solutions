@@ -1,11 +1,12 @@
 # DSA Solutions
 
-My solutions to Data Structures and Algorithms problems from competitive programming platforms.
+My solutions to Data Structures and Algorithms problems
+from competitive programming platforms.
 
 ## Platforms
 
-- [Codeforces](https://codeforces.com/)
-- [LeetCode](https://leetcode.com/)
+- Codeforces
+- LeetCode
 
 ## Languages
 
@@ -13,7 +14,6 @@ My solutions to Data Structures and Algorithms problems from competitive program
 
 ## Repository Structure
 
-```text
 DSA-Solutions/
 ├── Codeforces/
 │   └── Problem-Solutions
@@ -22,3 +22,10 @@ DSA-Solutions/
 │   └── Problem-Solutions
 │
 └── README.md
+
+## Progress
+
+| Platform | Problems Solved |
+|----------|-----------------|
+| Codeforces | 1 |
+| LeetCode | 0 |
